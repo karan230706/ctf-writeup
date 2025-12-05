@@ -1,6 +1,6 @@
 # ctf-writeup
 here i post writeup of every few question i solve
 
-##Description
->Lost Frequincies
-![](ctf-writeup/Screenshot 2025-02-25 003640.png)
+##BITSCTF2025
+>virus camp1
+A very simple chaall over disk analysis
